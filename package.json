@@ -39,6 +39,6 @@
     "express": "~4.1"
   },
   "dependencies": {
-    "supervisor": "~0.6"
+    "supervisor": "superhuit-ch/node-supervisor#support_for_harmony_defaults"
   }
 }
